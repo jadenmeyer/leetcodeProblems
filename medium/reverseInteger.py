@@ -10,10 +10,8 @@ class Solution:
         l = []
         while x / 10 > 0:
             l.append()
-        l = list(x)
-        l.reverse()
-        rev = int(l)
-        return rev
+
+        return l
 
 if __name__ == '__main__':
     print("hi")
